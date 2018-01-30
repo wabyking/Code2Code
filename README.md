@@ -1,10 +1,10 @@
-## Code2Code
+# Code2Code
 
-# Motivation
+## Motivation
 
 >This  repository ties to translate a source code into a target one, including Python/JAVA/C++/JS.
 
-# Example
+## Example
 We have a c++ source code like
 <pre><code>
 #include<iostream>
@@ -29,7 +29,7 @@ In order to reduce the complexity of this problem, exception check is not necess
 
 Firstly, we should prepare well-organized parallel codes. Then we will provide a rule-base baseline and seq2seq baseline. 
 
-# Evaluation
+## Evaluation
 
 The evaluation is based on these three parts
 
@@ -37,11 +37,11 @@ The evaluation is based on these three parts
 + Whether the generated code is runable
 + Whether the code keeps coherent with  the source code.
 
-# RL-based consideration
+## RL-based consideration
 If possible a RL-based language model as a agent is welcome for this task, due to the rewards can be well-defined, e.g. whether the compiling process has no errors or the output is coherent as the source language with a same input.
 
 
-# Expectation
+## Expectation
 
 It can be excepted that the Machine Agent could have a better performance over human in this task.
 
