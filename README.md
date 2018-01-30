@@ -15,6 +15,7 @@ int main()
    while(cin>>m)  
         cout<<m+1;
 }
+
 </code>
 </pre>
 We would get a target Python code like
