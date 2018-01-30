@@ -13,7 +13,7 @@ int main()
 {
    int m=0;
    while(cin>>m)  
-        cout<<m+1;
+         cout&lt;&lt;m+1;
 }
 </code>
 </pre>
