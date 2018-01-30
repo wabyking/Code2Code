@@ -6,7 +6,7 @@
 
 ## Example
 We have a c++ source code like
-<pre><
+<pre>
 #include<iostream>
 using namespace tsd;
 int main()
