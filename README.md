@@ -6,7 +6,7 @@
 
 ## Example
 We have a c++ source code like
-<pre>
+<pre><code>
 #include<iostream>
 using namespace tsd;
 int main()
@@ -15,6 +15,7 @@ int main()
    while(cin>>m)  
         cout<<m+1;
 }
+</code>
 </pre>
 We would get a target Python code like
 <pre>
